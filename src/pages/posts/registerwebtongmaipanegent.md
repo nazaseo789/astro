@@ -6,7 +6,6 @@ description: "ผู้เล่นสายfootballท่านใดมอง�
 hero: "https://i.postimg.cc/c1jgdg1p/04.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
-canonicalUrl:  ["https://mvpregisterwebtong.netlify.app"]
 ---
 
 <html lang="TH">
@@ -52,6 +51,7 @@ canonicalUrl:  ["https://mvpregisterwebtong.netlify.app"]
   
   <BaseHead title={title} description={seoDescription} />
   <meta name="robots" content= "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+  <link rel="canonical" href="https://mvpregisterwebtongmaipanagent.netlify.app" />
 </head>
 <body class="bg-white text-black font-body leading-normal personality-casual">
   <Nav />
