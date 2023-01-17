@@ -52,7 +52,6 @@ canonicalUrl: “{https://mvpzero.org/posts/registerwebtongmaipanegent/}"
   
   <BaseHead title={title} description={seoDescription} />
   <meta name="robots" content= "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
-  <link rel="canonical" href="https://mvpregisterwebtongmaipanagent.netlify.app" />
 </head>
 <body class="bg-white text-black font-body leading-normal personality-casual">
   <Nav />
