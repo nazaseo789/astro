@@ -6,6 +6,7 @@ description: "ผู้เล่นสายfootballท่านใดมอง�
 hero: "https://i.postimg.cc/c1jgdg1p/04.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
+canonicalUrl: “{https://mvpzero.org/posts/registerwebtongmaipanegent/}"
 ---
 
 <html lang="TH">
